@@ -1,2 +1,2 @@
 # PANCardReader
-PAN Card reader based on quality of image
+PAN Card reader based on quality of image using tesseract OCR
